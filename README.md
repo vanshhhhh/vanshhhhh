@@ -34,7 +34,7 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="vanshhhhh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&hide_border=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/vanshsharma10/
