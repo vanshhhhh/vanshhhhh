@@ -28,22 +28,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <br />
 <br />
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 </details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="vanshhhhh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&hide_border=true" />
-
 </details>
-
 [linkedin]: https://www.linkedin.com/in/vanshsharma10/
 [twitter]: https://twitter.com/vanshxsharma
 [instagram]: https://www.instagram.com/vansh_s10/
