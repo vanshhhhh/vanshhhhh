@@ -31,7 +31,7 @@
 <br />
 
 ---
-[Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&theme=dark)
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&theme=dark)
 
 [linkedin]: https://www.linkedin.com/in/vanshsharma10/
 [twitter]: https://twitter.com/vanshxsharma
