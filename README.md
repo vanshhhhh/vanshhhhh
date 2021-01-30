@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-vanshhhhh.vercel.app/api/spotify-playing" alt="vanshhhhh Spotify Playing" width="350" />](https://open.spotify.com/playlist/0sc7Ire6pRFIcPNa00SHeH?si=LwXYPefwS5K3upJYit7Xpw)
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="vanshhhhh Spotify Playing" width="350" />](https://open.spotify.com/playlist/0sc7Ire6pRFIcPNa00SHeH?si=LwXYPefwS5K3upJYit7Xpw)
 
 ### Connect with me:
 
