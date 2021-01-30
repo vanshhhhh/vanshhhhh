@@ -33,11 +33,6 @@
 
 ---
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-<details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="vanshhhhh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&hide_border=true" />
 </details>
