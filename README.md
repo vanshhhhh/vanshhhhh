@@ -1,5 +1,4 @@
 ### Hi there, I'm Vansh 👋
-[![Twitter](https://img.shields.io/twitter/follow/vanshxsharma?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a student @ MUJ
 
