@@ -31,10 +31,7 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="vanshhhhh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&hide_border=true" />
-</details>
+[Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshhhhh&show_icons=true&theme=dark)
 
 [linkedin]: https://www.linkedin.com/in/vanshsharma10/
 [twitter]: https://twitter.com/vanshxsharma
