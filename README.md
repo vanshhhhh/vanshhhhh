@@ -31,7 +31,10 @@
 <br />
 
 ---
-[![Vanshhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshhhhh)](https://github.com/vanshhhhh/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  [![Vanshhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshhhhh)](https://github.com/vanshhhhh/github-readme-stats)
+</details>
 
 [linkedin]: https://www.linkedin.com/in/vanshsharma10/
 [twitter]: https://twitter.com/vanshxsharma
