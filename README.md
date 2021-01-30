@@ -3,12 +3,9 @@
 ## I'm a student @ MUJ
 
 - 🌱 I’m currently learning Machine Learning
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play different sports
 
-### Spotify Playing 🎧
-[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="vanshhhhh Spotify Playing" width="350" />](https://open.spotify.com/playlist/0sc7Ire6pRFIcPNa00SHeH?si=GUQsU4AbR2-oWN3aL1WMow)
-### Connect with me:
 
 [<img align="left" alt="vanshhhhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vanshhhhh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
