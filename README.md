@@ -6,7 +6,7 @@
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play different sports
 
-
+### Connect with me
 [<img align="left" alt="vanshhhhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vanshhhhh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vanshhhhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
