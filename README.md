@@ -2,7 +2,7 @@
 
 
   <p>Welcome to my page! </br> I'm Vansh Sharma from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Indore, India</b>, currently studying Information Technology. My field of interest is mainly Machine Learning and Artificial Intelligence.</p>
-<h3>Things I code with</h3>
+<h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1549317933/5264/coding.gif?1549317933" width="30"/></h3>
 <h4><strong>Languages</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
