@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey there !</h1>
 
 
   <p>Welcome to my page! </br> I'm Vansh Sharma from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Indore, India</b>, currently studying Information Technology. My field of interest is mainly Machine Learning and Artificial Intelligence.</p>
