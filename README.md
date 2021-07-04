@@ -44,5 +44,5 @@
 <h4 align="left"><strong>Contact Me </strong></h4>
 <p align="center">
 <a href="https://wa.me/6261919239"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/vansh_s10"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/vansh_s10/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> <a
-href=""><img alt="TF" src = "https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvanshxsharma"/><a>
+href="https://twitter.com/vanshxsharma"><img alt="TF" src = "https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvanshxsharma"/><a>
 </p>
