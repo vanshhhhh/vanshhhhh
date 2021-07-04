@@ -37,14 +37,11 @@
 
 <img alt="TF" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
-
-<br>
-
 <h4><strong>Tools I use: </strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 
-<h4 align="left"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
+<h4 align="left"><strong>Contact Me </strong></h4>
 <p align="center">
 <a href="https://wa.me/6261919239"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/vansh_s10"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/vansh_s10/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
