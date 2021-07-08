@@ -44,5 +44,6 @@
 <h4 align="left"><strong>Contact Me </strong></h4>
 <p align="center">
 <a href="https://wa.me/916261919239"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/vansh_s10"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/vansh_s10/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> <a
-href="https://twitter.com/vanshxsharma"><img alt="TF" src = "https://img.shields.io/twitter/follow/vanshxsharma?label=TWITTER&style=for-the-badge"/><a>
+href="https://twitter.com/vanshxsharma"><img alt="TF" src = "https://img.shields.io/twitter/follow/vanshxsharma?label=TWITTER&style=for-the-badge"/><a> <a
+href="mailto:vansh.209302398@muj.manipal.edu"><img alt="TF" src = "https://img.shields.io/badge/mail-#007ec6?style=for-the-badge&logo=mail&logoColor=white"/><a>
 </p>
