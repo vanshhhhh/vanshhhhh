@@ -21,7 +21,7 @@
 
 <h4><strong>Database</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
 <h4><strong>Backend</strong></h4>
