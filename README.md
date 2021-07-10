@@ -3,11 +3,6 @@
 
 
   <p>Welcome to my page! </br> I'm Vansh Sharma from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Indore, India</b>, currently studying Information Technology. My field of interest is mainly Machine Learning and Artificial Intelligence.</p>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=;RIP+Internet+Explorer;If+at+first+you+don't+succeed;Call+it+version+1.0;Data+is+like+people;Interrogate+it+hard+enough;and+it+will+tell+you+whatever+you+want+to+hear;Artificial+intelligence+is+no+match+for+natural+stupidity;">
-  </a>
-</h1>
   
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1549317933/5264/coding.gif?1549317933" width="30"/></h3>
 <h4><strong>Languages</strong></h4>
