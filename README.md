@@ -1,3 +1,4 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=vanshhhhh.vanshhhhh" alt="Vansh Sharma" >
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey there !</h1>
 
 
