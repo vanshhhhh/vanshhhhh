@@ -4,7 +4,7 @@
   <p>Welcome to my page! </br> I'm Vansh Sharma from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Indore, India</b>, currently studying Information Technology. My field of interest is mainly Machine Learning and Artificial Intelligence.</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Linux+;What+about+you%3F">
+    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=What+is+plural+of+regex%3F;Regrets;How+do+functions+breakup%3F;They+stop+calling+each+other;RIP+Internet+Explorer;Violets+are+Red;Roses+are+Blue+;I+use+Windows+;What+about+you%3F">
   </a>
 </h1>
   
