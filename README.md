@@ -5,7 +5,7 @@
   <p>Welcome to my page! </br> I'm Vansh Sharma from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Indore, India</b>, currently studying Information Technology. My field of interest is mainly Machine Learning and Artificial Intelligence.</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Why+did+Naive+Bayesian+suddenly+feel+patriotic+when+he+heard+fireworks%3F;He+assumed+independence;There+are+10+kinds+of+people+in+this+world;Those+who+know+binary+and+those+who+don't;RIP+Internet+Explorer;If+at+first+you+don't+succeed;Call+it+version+1.0;Data+is+like+people;Interrogate+it+hard+enough+and+it+will+tell+you+whatever+you+want+to+hear;Artificial+intelligence+is+no+match+for+natural+stupidity;">
+    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=;There+are+10+kinds+of+people;Those+who+know+binary+and+those+who+don't;RIP+Internet+Explorer;If+at+first+you+don't+succeed;Call+it+version+1.0;Data+is+like+people;Interrogate+it+hard+enough+and+it+will+tell+you+whatever+you+want+to+hear;Artificial+intelligence+is+no+match+for+natural+stupidity;">
   </a>
 </h1>
   
